@@ -1,2 +1,2 @@
 # Hobbitcraft-S4
-The Hobbitcraft S4 Modpack 
+This is the official modpack for Hobbitcraft S4
